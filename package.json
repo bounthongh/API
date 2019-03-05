@@ -1,0 +1,21 @@
+{
+  "name": "bounth_h",
+  "version": "1.0.0",
+  "description": "",
+  "main": "step1.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "locutus": "^2.0.10",
+    "mysql": "^2.16.0",
+    "php-serialize": "^2.1.0",
+    "php-unserialize": "0.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
